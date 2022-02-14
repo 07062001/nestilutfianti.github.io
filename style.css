@@ -1,11 +1,11 @@
 .navbar {
   background-color: #52998e;
-  
 }
 
 .jumbotron {
   padding-top: 23px;
   background-color: #74b9af;
+  font-family: comic;
 }
 
 .projects {
@@ -25,3 +25,8 @@
 img.kanan {
   float: right;
   margin: 15px;
+}
+
+.btn {
+  background-color: #74b9af;
+}
