@@ -1,8 +1,27 @@
-body {
-  min-height: 2000px;
+.navbar {
+  background-color: #52998e;
+  
 }
 
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 23px;
+  background-color: #74b9af;
+}
+
+.projects {
+  padding: 23px;
   background-color: #e2edff;
 }
+
+.contact {
+  padding: center;
+}
+
+.About {
+  background-color: #bfd1ec;
+  padding-top: 23px;
+}
+
+img.kanan {
+  float: right;
+  margin: 15px;
