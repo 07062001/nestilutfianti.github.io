@@ -3,11 +3,13 @@
 }
 
 .jumbotron {
-  padding-top: 23px;
+  padding-top: 5rem;
   background-color: #74b9af;
   font-family: comic;
 }
-
+.jumbo {
+  padding-top: 5rem;
+}
 .projects {
   padding: 23px;
   background-color: #e2edff;
@@ -45,17 +47,19 @@ img.kanan {
 
 .btn {
   background-color: #74b9af;
-  padding-bottom: 10px;
+  margin-top: 10px;
 }
 
 .tentang {
   margin-left: 40px;
   margin-right: 40px;
+  font-family: comic;
 }
 
 .sambutan p {
   margin-left: 40px;
   margin-right: 40px;
+  font-family: comic;
 }
 
 .lead {
