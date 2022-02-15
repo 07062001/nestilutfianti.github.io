@@ -26,7 +26,42 @@ img.kanan {
   float: right;
   margin: 15px;
 }
+.col-md-4 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.mahasiswa {
+  margin-left: 40px;
+  margin-right: 40px;
+  opacity: 0.7;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.kapital {
+  margin-left: 40px;
+  margin-right: 40px;
+}
 
 .btn {
   background-color: #74b9af;
+  padding-bottom: 10px;
+}
+
+.tentang {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.sambutan p {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.lead {
+  margin-left: 40px;
+  margin-right: 40px;
+  opacity: 0.7;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
 }
