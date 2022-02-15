@@ -10,13 +10,17 @@
 .section {
   padding-top: 20rem;
 }
-.projects {
+.project {
   padding: 23px;
   background-color: #e2edff;
+}
+.col {
+  font-family: comic;
 }
 
 .contact {
   padding: center;
+  font-family: comic;
 }
 
 .About {
